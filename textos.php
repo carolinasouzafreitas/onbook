@@ -53,6 +53,7 @@
                 mysqli_close($conn);
         ?>
         </div>
+        <script src="js/script.js"></script>
     </main>
 </body>
 </html>
