@@ -20,7 +20,7 @@
     <table class="ranking-table" cellspacing="20">
         <tr class="line-title">
             <th class="line-th">Classificação</th>
-            <th class="line-th">Nº de livros</th>
+            <th class="line-th">Nº de textos</th>
             <th class="line-th">Escritores</th>
         </tr>
 
