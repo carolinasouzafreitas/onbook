@@ -4,9 +4,9 @@
     $sql = "SELECT COUNT(id) FROM texts GROUP BY id_auth ORDER BY COUNT(id) DESC";
 
     if(mysqli_connect($conn, $slq )){
-        echo "deu certo";
+        echo "Deu certo";
 
     }else {
-        echo "n deu certo" .mysqli_error($conn);
+        echo "Não deu certo" .mysqli_error($conn);
     }
 ?>
