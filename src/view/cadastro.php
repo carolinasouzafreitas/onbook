@@ -23,7 +23,7 @@ session_start();
         <form action="../controller/register.php" method="post" enctype="multipart/form-data">
             <p style="color:red;" id="erro">Usuário já cadastrado</p>
             <p style="color:red;" id="erro2">As senhas diferem</p>
-            <p style="color:red;" id="erro3">Tamanho da imagem exedido</p>
+            <p style="color:red;" id="erro3">Tamanho da imagem excedido</p>
             <p style="color:red;" id="erro4">Cadastro falhou</p>
             <label for="name">
                 <span>Usuário</span>
